@@ -1,8 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "html-london-trip",
-			"path": "."
+			"path": "../html-css-booleaner/html-css-booleaner"
 		}
 	],
 	"settings": {}
